@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nadafarooqq
-- 👀 I’m interested in UX Design  
-- 🌱 I’m currently learning UX Design
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Web Development
 - 📫 How to reach me nadafarooqq@gmail.com
 
 <!---
